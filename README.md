@@ -7,6 +7,11 @@ This tool is an util to make u able to run postman collections simultaneously, t
 
 remember to clean the .newnewman directory after every run, it's gonna grow up very fast.
 
+## Install
+```shell
+npm install -g newnewman
+```
+
 
 ## Postman Data File
 
