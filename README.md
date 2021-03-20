@@ -1,2 +1,2 @@
 # newnewman
-man cli tool to run multiple newman instances simultaneously. 
+a cli tool to run multiple newman instances simultaneously. 
