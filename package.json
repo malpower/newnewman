@@ -1,6 +1,6 @@
 {
   "name": "newnewman",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a cli tool to run multiple newman instances simultaneously.",
   "main": "index.js",
   "scripts": {
