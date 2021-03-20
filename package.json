@@ -1,0 +1,25 @@
+{
+  "name": "newnewman",
+  "version": "0.0.1",
+  "description": "a cli tool to run multiple newman instances simultaneously.",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malpower/newnewman.git"
+  },
+  "bin": {
+    "newnewman": "command.js"
+  },
+  "author": "malpower",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malpower/newnewman/issues"
+  },
+  "homepage": "https://github.com/malpower/newnewman#readme",
+  "dependencies": {
+    "newman": "^5.2.2"
+  }
+}
