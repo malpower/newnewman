@@ -32,7 +32,7 @@ newnewman --path2collection=collection.json --path2data=data.json
 ## How This Tool Work
 Essentially, this tool uses [newman](https://github.com/postmanlabs/newman) to run the postman exported collection file. 
 
-It uses a bunch of promises to create the newman run jobs and use Promise.all to run the simultaneously( not accurate).
+It uses a bunch of promises to create the newman.run jobs and use Promise.all to run them simultaneously( not accurate).
 
 
 ## Why This Tool
